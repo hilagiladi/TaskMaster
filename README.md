@@ -10,5 +10,9 @@ The Task Management System is an ongoing project aimed at efficiently managing t
 - Automated deployment to target environments for continuous deployment.
 - Task execution and monitoring with progress tracking and result recording.
 
+## Technologies Used
+- Programming language: Java
+- Version control: Git
+
 ## Work in Progress
 Please note that this project is currently a work in progress. Some features and functionalities may not be fully implemented or may be subject to changes.
